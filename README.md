@@ -1,15 +1,6 @@
 # JavaScript Functions
 
-## Getting Started
-
-1. Open your command line and navigate to your `repos` directory (if you do not have a `repos` folder, then you can use `mkdir repos` to create one)
-2. Use this template repository to start a new project in your repos folder: `git clone <repo_name>`
-3. cd `repo_name` to navigate into your new repo directory
-4. Start Visual Studio Code and select 'Open Folder'. Then select `repo_name` to open the folder in the editor (or just type `code .` in your terminal inside the repo directory)
-5. Follow the instructions on the README.md file to complete exercises
-6. Open the app.js file to get started
-
-## Exercise 1: Minimum Number
+## Exercise 1: Minimum Number- DONE 
 
 - In the past, we created a selection statement inside a loop that counted from 1 to 100, and only printed out the odd numbers.
 - Your task is to write a function printOdds() that takes one parameter, count, and uses a loop and selection statement to count to the number passed in, printing out the odd numbers.
